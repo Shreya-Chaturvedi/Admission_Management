@@ -87,7 +87,7 @@
       </div>
     </div>
   </div>
-  <a href="./dashboard.php" class="btn btn-flat btn-default border btn-sm" style="color: white; display: block; align-items: center; justify-content: center; background-color: #001f3f;">Return to Home Page</a>
+  <a href="./index.html" class="btn btn-flat btn-default border btn-sm" style="color: white; display: block; align-items: center; justify-content: center; background-color: #001f3f;">Return to Home Page</a>
 
 
 <!-- jQuery -->
